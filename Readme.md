@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SchedulerSyncCustomFields/Form1.cs) (VB: [Form1.vb](./VB/SchedulerSyncCustomFields/Form1.vb))
+* [Program.cs](./CS/SchedulerSyncCustomFields/Program.cs) (VB: [Program.vb](./VB/SchedulerSyncCustomFields/Program.vb))
+<!-- default file list end -->
 # How to synchronize custom field values between Outlook and SchedulerControl
 
 
